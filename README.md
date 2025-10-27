@@ -1,4 +1,4 @@
-# Assignment: Final Project Milestone 04 - Final Integration and Refinement
+# Assignment: Final Project Milestone 4 - Final Integration and Refinement
 
 **Due Date:** December 8th, 11:55 PM
 
