@@ -1,6 +1,6 @@
-# Assignment: Final Project Milestone 4 - Final Integration and Refinement
+# Assignment: Final Project Milestone 04 - Final Integration and Refinement
 
-**Due Date:** December 11th, 11:59 PM
+**Due Date:** December 8th, 11:55 PM
 
 ## Objective
 
@@ -38,7 +38,7 @@ This milestone focuses on integrating and refining all components of your final 
 
 ### Final Presentation Reminder
 
-- Prepare to present your final project on **December 17th**.
+- Prepare to present your final project on **December 15th**.
 - The presentation should cover:
   - Your project’s objectives and key findings.
   - An overview of your website and visualizations.
