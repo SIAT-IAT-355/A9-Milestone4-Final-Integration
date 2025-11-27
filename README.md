@@ -32,13 +32,14 @@ This milestone focuses on integrating and refining all components of your final 
      - Challenges you faced and how you resolved them.
      - Feedback you received and how it shaped your final design.
    - Name your file as follows:  
-     **Milestone4_FinalIntegration_FirstNameLastName.pdf**
+     **Milestone4_FinalIntegration_GroupName.pdf**
 
 ---
 
 ### Final Presentation Reminder
 
-- Prepare to present your final project on **December 15th**.
+- Your final submission is on **December 15th**.
+- Prepare to present your final project on **December 12th**.
 - The presentation should cover:
   - Your project’s objectives and key findings.
   - An overview of your website and visualizations.
